@@ -3,8 +3,7 @@ public class Teste {
         Cachorro obj1 = new Cachorro("Panqueca", "vira-lata");
         Gato obj2 = new Gato("Banguela", "Persa");
 
-        obj1.andar();
-        obj2.comer();
-
+        obj1.andar();  
+        obj2.comer(); 
     }
 }
