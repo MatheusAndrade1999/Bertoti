@@ -14,7 +14,6 @@ interface Subject{
 }
 
 
-
 class NewsAgency implements Subject {
 
     private String news;
